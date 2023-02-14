@@ -15,6 +15,7 @@
 <img align="center" alt="Lucas-HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 <img align="center" alt="Lucas-CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 <img align="center" alt="Lucas-Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="center" alt="Lucas-Angular" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
 </div>
 
 ##
