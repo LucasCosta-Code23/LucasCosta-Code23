@@ -15,7 +15,7 @@
 <img align="center" alt="Lucas-HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 <img align="center" alt="Lucas-CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 <img align="center" alt="Lucas-Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="center" alt="(https://iconscout.com/icon/avoid-handshake-2221268)" heigth="30" width="40" src="<a href="https://iconscout.com/icons/angular" target="_blank">Angular Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>"/>
+<img align="center" alt="(https://iconscout.com/icon/avoid-handshake-2221268)" heigth="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>"
 </div>
 
 ##
