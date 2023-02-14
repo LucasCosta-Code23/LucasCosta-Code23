@@ -6,7 +6,7 @@
 
    <img heigh="180em"  src="https://github-readme-stats.vercel.app/api?username=LucasCosta-Code23&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
    
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCosta-Code23&layout=compact&langs_count=16&theme=gruvbox"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCosta-Code23&layout=compact&langs_count=16&theme=gruvbox"/>
 
 </div>
 
