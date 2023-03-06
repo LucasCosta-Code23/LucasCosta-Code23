@@ -1,4 +1,4 @@
-## Olá!  Eu sou o Lucas  👋
+## Hi!  My name is Lucas  👋
 
 <div>
 
