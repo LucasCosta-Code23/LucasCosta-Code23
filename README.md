@@ -4,8 +4,10 @@
 <a href="https://github.com/LucasCosta-Code23">
 
 <img heigh="180em"  src="https://github-readme-stats.vercel.app/api?username=LucasCosta-Code23&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCosta-Code23&layout=compact&langs_count=16&theme=gruvbox"/>
-
+</div>
 <img align="center" alt="Lucas-Js" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 <img align="center" alt="Lucas-HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 <img align="center" alt="Lucas-CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
